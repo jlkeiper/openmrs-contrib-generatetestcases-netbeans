@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.openmrs.netbeans.generatetestcases
+OpenIDE-Module-Localizing-Bundle: org/openmrs/netbeans/generatetestcases/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
